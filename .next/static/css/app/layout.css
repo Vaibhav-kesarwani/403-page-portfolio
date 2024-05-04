@@ -564,14 +564,8 @@ video {
   --tw-backdrop-saturate:  ;
   --tw-backdrop-sepia:  ;
 }
-.absolute {
-  position: absolute;
-}
 .relative {
   position: relative;
-}
-.block {
-  display: block;
 }
 .h-screen {
   height: 100vh;
